@@ -23,4 +23,4 @@
 ```
 
 ### News report
-- [2020-05-18 Is it possible to predict Covid-19 cases? Science and IA helps (in Portuguese). Source: UTFPR Portal](http://portal.utfpr.edu.br/noticias/geral/covid-19/e-possivel-prever-casos-futuros-da-covid-19)
+- [2020-05-18 Portal UTFPR - Is it possible to predict Covid-19 cases? Science and IA helps (in Portuguese).](http://portal.utfpr.edu.br/noticias/geral/covid-19/e-possivel-prever-casos-futuros-da-covid-19)
