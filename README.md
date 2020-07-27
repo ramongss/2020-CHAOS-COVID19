@@ -5,7 +5,7 @@
 ![Diagram](Figures/COVID_DIAGRAM.png)
 
 ### Publication
-- [Preprint (ResearchGate)](https://www.researchgate.net/publication/341025731_Short-term_forecasting_COVID-19_cumulative_confirmed_cases_Perspectives_for_Brazil)
+- Preprint ([arXiv](https://arxiv.org/abs/2007.12261) | [ResearchGate](https://www.researchgate.net/publication/341025731_Short-term_forecasting_COVID-19_cumulative_confirmed_cases_Perspectives_for_Brazil))
 - [Journal paper (ScienceDirect)](https://www.sciencedirect.com/science/article/pii/S0960077920302538)
 
 ### How to cite this paper
